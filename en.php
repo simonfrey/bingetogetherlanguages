@@ -42,7 +42,7 @@ $indexLang = array(
     <li>👍 No browser plugin required!</li>
     <li>🤩 It's <b>free</b></li>",
     "explanationHowToTitle"=>"How to",
-    "explanationHowToList"=>"     <li>1. Create a new movie party by <b>entering the url</b> of the movie you want to watch</li>
+    "explanationHowToList"=>"<li>1. Create a new movie party by <b>entering the url</b> of the movie you want to watch</li>
     <li>2. <b>Send the party code</b> to your friends</li>
     <li>3. Make sure everyone <b>has an account & is signed in</b> into the streaming service you choose!</li>
     <li>4. <b>Open the voice chat</b> in a new tab</li>
@@ -51,7 +51,7 @@ $indexLang = array(
 
     "supportedServicesTitle"=>"Supported services",
     "supportedServicesSubtitle"=>"This streaming services are currently supported by Binge Together. More are coming soon...",
-    "supportedServicesExplanation"=>'"Binge Together will be able to support all streaming sites available online, as it works directly in
+    "supportedServicesExplanation"=>'Binge Together will be able to support all streaming sites available online, as it works directly in
     your browser. For the listed one we figured out how to enable the autoplay. If you have information
     about other streaming services, do not hesitate to <a href="mailto:bingetogether@simon-frey.com">get in contact </a>',
 
