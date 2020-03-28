@@ -63,6 +63,9 @@ $indexLang = array(
     <li>🗣️ Suporte de bate-papo por voz</li>
     <li>😇 Funciona em todos os navegadores (não apenas no cromado)</li>
     <li>🎥 Suporta mais serviços de streaming para além do Netflix</li>',
+  
+  
+    "disneyPlusProblem"=>"Até agora não há suporte de timecode."
 
     
 

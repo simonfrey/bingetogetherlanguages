@@ -64,7 +64,8 @@ $indexLang = array(
     <li>😇 Działa we wszystkich przeglądarkach (nie tylko w chrome)</li>
     <li>🎥 Obsługuje więcej usług streamingowych poza Netflix</li>',
 
-    
+    "disneyPlusProblem"=>"Na razie nie ma wsparcia dla kodu czasowego."
+
 
 );
 

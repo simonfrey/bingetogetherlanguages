@@ -63,6 +63,10 @@ $indexLang = array(
     <li>🗣️ Stemchatondersteuning</li>
     <li>😇 Werkt in alle browsers (niet alleen in chroom)</li>
     <li>🎥 Ondersteunt meer streaming-diensten behalve Netflix</li>',
+   
+   
+    "disneyPlusProblem"=>"Geen tijdcode-ondersteuning tot nu toe."
+
 
     
 

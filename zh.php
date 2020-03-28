@@ -65,6 +65,7 @@ $indexLang = array(
     <li>🎥 除了Netflix之外，还支持更多的流媒体服务</li></li>',
 
     
+    "disneyPlusProblem"=>"迄今为止，没有时间码支持。"
 
 );
 
