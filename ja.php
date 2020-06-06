@@ -3,68 +3,67 @@
 // global
 $globalLang = array(
     "slogan"=>"Binge Together - 友達と一緒に映画を見る",
-    "description"=>"お友達と一緒に映画の夜を楽しみましょう
-    離れていても親しみを感じる
-    ⏰ ムービーを同時にスタートさせる
-    📞 ボイスチャットで感情を語る
-    👍 ブラウザのプラグインは必要ありません
-    🤩 無料です
-    より良いNetflixのパーティーの代替として一緒にBingeを使用します。",
+    "description"=>"友達と一緒に 映画で夜を 楽しもう
+    離れていても 近くに感じる
+    ⏰ 映画を同時に 上映開始
+    📞 ボイスチャットで 感想を語る
+    👍 ブラウザのプラグインは 不要
+    🤩 無料
+    Netflix Partyの代わりに より快適なBinge Togetherをご利用ください。",
 
     "sponsoringTitle"=>"スポンサー",
-    "sponsoringExplanation"=>"Binge Togetherは広告でサポートされています。",
-    "sponsoringLink"=>"この広告枠を購入してサポートします。",
+    "sponsoringExplanation"=>"Binge Togetherは 広告でサポートされています。",
+    "sponsoringLink"=>"広告枠を購入して サポートする。",
 
-    "supportPapPal"=>"ペイパル経由でのサポート",
+    "supportPapPal"=>"ペイパル経由で支援",
     "feedback"=>"フィードバック",
-    "imprint"=>"インプリントとプライバシー",
-    "helpTranslating"=>"翻訳のヘルプ"
+    "imprint"=>"インプリント/プライバシー",
+    "helpTranslating"=>"翻訳を支援"
 
 );
 
 //
 // index
 $indexLang = array(
-    "joinTitle"=>"映画パーティーに参加する",
-    "joinSubtitle"=>"お友達からもらったIDを入力してください",
+    "joinTitle"=>"Movie Partyに参加する",
+    "joinSubtitle"=>"主催者から提示されたIDを入力する",
     "joinButtonText"=>"参加",
 
 
-    "createTitle"=>"新しいムービーパーティーを作る",
-    "createSubtitle"=>"お友達と一緒に見たい動画のURLを入力してください。",
+    "createTitle"=>"新しい Movie Partyを 開催する",
+    "createSubtitle"=>"友達と一緒に みる動画のURLを入力する",
     "createButtonText"=>"作成",
 
 
-    "explanationTitle"=>"お友達と一緒に映画の夜を楽しみましょう",
-    "explanationSubtitle"=>"離れていても親しみを感じる",
-    "explanationBenefitsList"=>"<li>⏰ <b>全く同じ時間にムービーを開始する</b></li>。
-    <li>📞 <b>ボイスチャット</b></li>で感情を語る
-    <li>👍 ブラウザのプラグインは必要ありません!
-    <li>🤩 それは<b>無料</b></li>です。",
-    "explanationHowToTitle"=>"どのように",
-    "explanationHowToList"=>"<li>1. <b>見たい映画のURL</b>を入力して、新しい映画パーティーを作成します。
-    <li>2. <b>お友達にパーティーコードを送る</li>。
-    <li>3.全員がアカウントを持っていて、選択したストリーミング サービスにサインインしていることを確認してください。
+    "explanationTitle"=>"友達と一緒に 映画で夜を 楽しもう",
+    "explanationSubtitle"=>"離れていても 近くに感じる",
+    "explanationBenefitsList"=>"<li>⏰ <b>全く同じ同時に　映画を開始する</b></li>。
+    <li>📞 <b>ボイスチャット</b></li>で 感想を語る
+    <li>👍 ブラウザのプラグインは不要!
+    <li>🤩 <b>無料</b></li>",
+    "explanationHowToTitle"=>"使い方",
+    "explanationHowToList"=>"<li>1. <b>上映したい 映画のURL</b>を入力し 新しいMovie Partyを作成する。
+    <li>2. <b>友達に パーティーコードを送る。</li>
+    <li>3.全員が選択したストリーミング サービスのアカウントを保有しサインインしていることをご確認ください。
     <li>4. <b>新しいタブでボイスチャットを開く</li>。
-    <li>5. カウントダウンがゼロになり、<b>あなたの映画の夜が始まるまで待ちます</b></li>",
+    <li>5. カウントダウンがゼロになり、<b>あなたのMovie Nightが始まるのを待ちます</b></li>",
 
 
-    "supportedServicesTitle"=>"サポートサービス",
-    "supportedServicesSubtitle"=>"このストリーミングサービスは現在Binge Togetherがサポートしています。その他のサービスも近日中にリリース予定です。",
-    "supportedServicesExplanation"=>'Binge Together は、オンラインで利用可能なすべてのストリーミング・サイトをサポートすることができます。
-    ブラウザの設定を変更してください。記載されているものについては、自動再生を有効にする方法がわかりました。情報をお持ちの方は
-    他のストリーミングサービスについては、<a href="mailto:bingetogether@simon-frey.com">連絡先</a>を得ることを躊躇しないでください。',
+    "supportedServicesTitle"=>"サポートするサービス",
+    "supportedServicesSubtitle"=>"これらのストリーミングサービスが現在Binge Togetherでサポートされています。その他のサービスも近日中にリリース予定です。",
+    "supportedServicesExplanation"=>'Binge Together はブラウザ上で動作し、オンラインで利用可能なすべてのストリーミング・サイトがサポート可能になる予定です。
+    リストにあるものは、自動再生を有効にする方法が判明しています。もしその他のストリーミングサービスについて 情報をお持ちの方は お気軽に <a href="mailto:bingetogether@simon-frey.com">ご連絡</a>ください。',
 
 
 
-    "netflixPartyAlernativeTitle"=>"Netflixパーティーの代替として一緒にBinge",
+    "netflixPartyAlernativeTitle"=>"Netflix Partyの代わりにBinge Together",
     "netflixPartyAlernativeSubtitle"=>"Binge TogetherとNetflix Partyの違いは？",
-    "netflixPartyAlernativeExplanation"=>'<li>👍 ブラウザのプラグインは不要</li>です。
-    <li>🗣️ ボイスチャット対応</li
-    <li>😇 すべてのブラウザで動作します（クロームだけではありません）</li>。
-    <li>🎥 Netflix以外のストリーミングサービスにも対応しています</li>。',
+    "netflixPartyAlernativeExplanation"=>'<li>👍 ブラウザのプラグインは不要。</li>
+    <li>🗣️ ボイスチャット対応</li>
+    <li>😇 すべてのブラウザで動作（Chrome以外も対応）</li>。
+    <li>🎥 Netflix以外のストリーミングサービスにも対応</li>。',
 
-    "disneyPlusProblem"=>"今のところタイムコードのサポートはありません。"
+    "disneyPlusProblem"=>"現在、タイムコードのサポートはありません。"
 
 
 );
@@ -72,38 +71,38 @@ $indexLang = array(
 //
 // party
 $partyLang = array(
-    "ID"=>"身分証明書",
+    "ID"=>"ID",
     "copiedURL"=>"コピーされたパーティのURL",
 
-    "countdownTitle"=>"映画パーティーへのカウントダウン",
-    "countdownSubtitle"=>"カウントダウンがゼロになった時にムービーパーティーが始まる",
-    "watchVia"=>"を経由して視聴することになります。",
-    "preperation"=>"前提として、<b>動画を開いて自動起動するかどうかを確認してください。",
-    "openMovie"=>"オープンムービー",
+    "countdownTitle"=>"Movie Party Countdown",
+    "countdownSubtitle"=>"カウントダウンがゼロになった時にMovie Partyが開始されます",
+    "watchVia"=>"視聴するサービス",
+    "preperation"=>"事前に、<b>映画を開いて自動起動するかどうかを確認しておきましょう。",
+    "openMovie"=>"映画を再生",
 
-    "alreadyStartedTitle"=>"映画会はすでに始まっている",
-    "alreadyStartedSubitle"=>"このムービーパーティーはすでに始まっています。",
-    "alreadyStartedDescription"=>"映画会はすでに少しの間、続いています。",
-    "joinParty"=>"映画パーティーに参加",
+    "alreadyStartedTitle"=>"Movie Party開始済みです",
+    "alreadyStartedSubitle"=>"このMovie Partyは既に開始されています。",
+    "alreadyStartedDescription"=>"Movie Party上映経過時間：",
+    "joinParty"=>"Movie Partyに参加",
 
-    "firefoxTitle"=>"Firefoxを使用しています。",
-    "firefoxSubitle"=>"Firefoxは自動再生をブロック",
-    "firefoxdDescription"=>"以下の動画で有効にする方法を説明しています。例としてNetflixを使用していますが、これはすべてのウェブサイトで動作します。",
+    "firefoxTitle"=>"Firefoxを使用中。",
+    "firefoxSubitle"=>"Firefoxが自動再生をブロック",
+    "firefoxdDescription"=>"以下の動画で有効にする方法を説明しています。Netflixを参考に使用していますが、すべてのウェブサイトで動作します。",
 
 
     "voiceChatTitle"=>"ボイスチャットを開く",
-    "voiceChatSubitle"=>"あなたのボイスチャットは Jitsi Meet を通じてホストされています。",
-    "voiceChatButton"=>"オープンボイスチャット",
+    "voiceChatSubitle"=>"ボイスチャットは Jitsi Meet でホストされています。",
+    "voiceChatButton"=>"ボイスチャットを開く",
 );
 
 //
 // errors
 $errorsLang = array(
     "error"=>"エラー",
-    "noMovieURL"=>"動画のURLが設定されていない",
-    "dateNotSet"=>"日付が設定されていない",
-    "timeNotSet"=>"開始時間が設定されていない",
+    "noMovieURL"=>"動画のURLが設定されていません",
+    "dateNotSet"=>"日付が設定されていません",
+    "timeNotSet"=>"開始時間が設定されていません",
     "dbError"=>"DB エラー",
-    "noPartyID"=>"パーティーID設定なし",
-    "partyNotFound"=>"パーティーが見つかりませんでした。パーティーIDが正しいかどうか確認してください"
+    "noPartyID"=>"Party IDが設定されていません",
+    "partyNotFound"=>"Partyが見つかりません。Party IDが正しいかご確認ください"
 );
